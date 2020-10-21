@@ -122,6 +122,17 @@
 - https://github.com/rapid7/metasploit-vulnerability-emulator 基于perl的metasploit模拟环境，练习操作
 - https://github.com/chryzsh/DarthSidious AD域环境的搭建、渗透、防护
 - https://github.com/c0ny1/xxe-lab 一个包含php,java,python,C#等各种语言版本的XXE漏洞Demo
+- https://www.hackthebox.eu //欧洲HTB靶场，在线真实环境
+- https://www.root-me.org //俄罗斯root me靶场。在线。社区版
+- https://lab.pentestit.ru //俄罗斯靶场，真实环境。在线。商业版。
+- https://www.offensive-security.com/information-security-certifications/ //kali攻防技术认证。商业版。
+- https://www.pentesteracademy.com //教程+视频+实验室+认证培训一套。商业版。
+- https://www.cybrary.it //网络安全工程师认证。CTF/Labs
+- https://www.wechall.net //世界知名ctf汇总交流网站
+- https://www.ichunqiu.com/experiment/direction //i春秋实验室。Web/主机/应用/pwn教程
+- https://www.mozhe.cn/bug //墨者学院在线靶场。Web/主机/数据库/取证
+- https://www.xssgame.com //谷歌XSS挑战
+- http://xss.tv //在线靶场
 
 #### 信息收集
 
